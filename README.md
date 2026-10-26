@@ -11,3 +11,7 @@ Camilo Esteban Abella Perez
 
 ## Estado actual del proyecto
 En fase de planificacion y estructuracion de contenidos audiovisual y diseno de prototipos iniciales.
+## Herramientas
+- Adobe Premiere Pro
+- After Effects
+- Photoshop
