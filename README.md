@@ -15,3 +15,6 @@ En fase de planificacion y estructuracion de contenidos audiovisual y diseno de 
 - Adobe Premiere Pro
 - After Effects
 - Photoshop
+## Entregables
+- Videos promocionales para redes sociales
+- Plantillas de diseno y edicion
